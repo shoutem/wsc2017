@@ -1,0 +1,61 @@
+# Xcode
+/app/!**/*.xcodeproj
+/app/!**/*.pbxproj
+/app/!**/*.xcworkspacedata
+/app/!**/*.xcsettings
+/app/!**/*.xcscheme
+/app/*.pbxuser
+/app/!default.pbxuser
+/app/*.mode1v3
+/app/!default.mode1v3
+/app/*.mode2v3
+/app/!default.mode2v3
+/app/*.perspectivev3
+/app/!default.perspectivev3
+/app/xcuserdata
+/app/*.xccheckout
+/app/*.moved-aside
+/app/DerivedData
+/app/*.hmap
+/app/*.ipa
+/app/*.xcuserstate
+/app/project.xcworkspace
+
+# Gradle
+/app/build/
+/app/RNTester/android/app/build/
+/app/RNTester/android/app/gradle/
+/app/RNTester/android/app/gradlew
+/app/RNTester/android/app/gradlew.bat
+/app/ReactAndroid/build/
+
+# Buck
+/app/.buckd
+/app/buck-out
+/app/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/
+/app/ReactAndroid/src/main/jni/prebuilt/lib/x86/
+/app/ReactAndroid/src/main/gen
+
+# Android
+/app/.idea
+/app/.gradle
+/app/local.properties
+/app/*.iml
+/app/android/
+
+# Node
+/app/**/node_modules
+/app/*.log
+/app/.nvm
+/app/danger/node_modules/
+/app/scripts/node_modules/
+
+# OS X
+/app/.DS_Store
+
+# Test generated files
+/app/ReactAndroid/src/androidTest/assets/AndroidTestBundle.js
+/app/*.js.meta
+
+/app/coverage
+/app/third-party

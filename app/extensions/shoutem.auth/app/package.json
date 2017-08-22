@@ -1,0 +1,12 @@
+{
+  "name": "shoutem.auth",
+  "version": "0.6.8-build1503041852577",
+  "description": "Authentication extension that uses the Shoutem authentication backend.",
+  "dependencies": {
+    "fs-extra": "1.0.0",
+    "lodash": "^4.10.1",
+    "nearest-file-path": "^1.1.0",
+    "plist": "^2.0.1",
+    "urijs": "^1.18.1"
+  }
+}

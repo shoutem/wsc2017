@@ -1,0 +1,10 @@
+{
+  "name": "push-notifications",
+  "version": "0.1.14",
+  "platform": "1.1.*",
+  "type": "system",
+  "title": "Push Notifications",
+  "description": "Base extension for push notifications",
+   "icon": "server/assets/add-push-notifications-image.png",
+  "categories": ["push"]
+}

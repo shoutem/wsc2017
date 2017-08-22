@@ -1,0 +1,9 @@
+{
+  "name": "camera",
+  "version": "0.0.6",
+  "title": "Camera",
+  "type": "system",
+  "description": "Shoutem camera extension",
+  "platform": "1.1.*",
+  "icon":"server/assets/add-camera-image.png"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "persist",
+  "version": "0.1.9",
+  "platform": "1.1.*",
+  "type": "system",
+  "title": "Persist",
+  "description": "Extensions that persist redux state",
+  "icon": "server/assets/add-persist-image.png",
+  "categories": []
+}

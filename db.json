@@ -1,0 +1,52 @@
+{
+    "tickets": [
+        {
+            "id": 1,
+            "firstName": "Zeljko",
+            "lastName": "Smith",
+            "company": "Shoutem"
+        },
+        {
+            "id": 2,
+            "firstName": "Marijn",
+            "lastName": "Haverbeke",
+            "company": "Freelance"
+        },
+        {
+            "id": 3,
+            "firstName": "Jason",
+            "lastName": "Lengstorf",
+            "company": "IBM"
+        },
+        {
+            "id": 4,
+            "firstName": "Princiya",
+            "lastName": "Marina Sequeira",
+            "company": "Zalando"
+        },
+        {
+            "id": 5,
+            "firstName": "Luciano",
+            "lastName": "Mammino",
+            "company": "Planet 9 Energy"
+        },
+        {
+            "id": 6,
+            "firstName": "James",
+            "lastName": "Allardice",
+            "company": "Tesco"
+        },
+        {
+            "id": 7,
+            "firstName": "Željko",
+            "lastName": "Rumenjak",
+            "company": "Shoutem"
+        },
+        {
+            "id": 8,
+            "firstName": "Domagoj",
+            "lastName": "Rukavina",
+            "company": "Shoutem"
+        }
+    ]
+}

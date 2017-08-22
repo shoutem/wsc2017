@@ -1,0 +1,11 @@
+{
+  "name": "shoutem.favorites",
+  "version": "0.1.13-build1501056546641",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
