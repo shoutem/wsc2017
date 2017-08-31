@@ -4,12 +4,14 @@ import pack from './package.json';
 
 // screens imports
 import ConferenceEventDetailsScreen from './screens/ConferenceEventDetailsScreen';
+import MyTicketScreen from './screens/MyTicketScreen';
 
 // themes imports
 
 
 export const screens = {
   ConferenceEventDetailsScreen,
+  MyTicketScreen
 };
 
 export const themes = {

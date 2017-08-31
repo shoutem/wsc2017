@@ -10,6 +10,16 @@
       "title": "Talk details",
       "image": "./server/assets/images/details-medium-photo.png",
       "extends": "shoutem.events.DetailsScreen"
+    },
+    {
+      "name": "MyTicketScreen"
+    }
+  ],
+  "shortcuts": [
+    {
+      "title": "My Ticket",
+      "name": "MyTicket",
+      "screen": "@.MyTicketScreen"
     }
   ]
 }
