@@ -1,0 +1,15 @@
+{
+  "name": "conference-schedule",
+  "title": "Conference Schedule",
+  "version": "0.0.1",
+  "description": "",
+  "platform": "1.1.*",
+  "screens": [
+    {
+      "name": "ConferenceEventDetailsScreen",
+      "title": "Talk details",
+      "image": "./server/assets/images/details-medium-photo.png",
+      "extends": "shoutem.events.DetailsScreen"
+    }
+  ]
+}
