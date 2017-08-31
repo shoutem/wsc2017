@@ -55,7 +55,6 @@
     "shoutem.news": "file:extensions/shoutem.news/app",
     "shoutem.notification-center": "file:extensions/shoutem.notification-center/app",
     "shoutem.page": "file:extensions/shoutem.page/app",
-    "shoutem.people": "file:extensions/shoutem.people/app",
     "shoutem.persist": "file:extensions/shoutem.persist/app",
     "shoutem.photos": "file:extensions/shoutem.photos/app",
     "shoutem.places": "file:extensions/shoutem.places/app",
@@ -63,14 +62,15 @@
     "shoutem.preview": "file:extensions/shoutem.preview/app",
     "shoutem.push-notifications": "file:extensions/shoutem.push-notifications/app",
     "shoutem.rss-news": "file:extensions/shoutem.rss-news/app",
-    "shoutem.rss-photos": "file:extensions/shoutem.rss-photos/app",
     "shoutem.rss-videos": "file:extensions/shoutem.rss-videos/app",
     "shoutem.rss": "file:extensions/shoutem.rss/app",
     "shoutem.rubicon-theme": "file:extensions/shoutem.rubicon-theme/app",
     "shoutem.sub-navigation": "file:extensions/shoutem.sub-navigation/app",
     "shoutem.theme": "file:extensions/shoutem.theme/app",
     "shoutem.video": "file:extensions/shoutem.video/app",
-    "shoutem.web-view": "file:extensions/shoutem.web-view/app"
+    "shoutem.web-view": "file:extensions/shoutem.web-view/app",
+    "wsc.conference-schedule": "file:extensions/wsc.conference-schedule/app",
+    "wsc.people": "file:extensions/wsc.people/app"
   },
   "devDependencies": {
     "babel": "^6.3.26",
